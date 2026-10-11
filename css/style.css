@@ -1,17 +1,45 @@
 body { 
-    background-color: rgb(238, 236, 233);
-    font-family:'Times New Roman', Times, serif ;
-   
+    font-family:"Libre Caslon Condensed", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #f7f7f3;
+    background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
 }
+    
+
+
+
     h1 {
-        text-align:center;
-        font-size: 40px;
+        font-size: 50px;
         font-weight: bold;
     }
     h2 {
         text-indent: 50px;
-        font-size: 20px;
+        font-size: 22px;
     }
+    h3 {
+        text-indent: 50px;
+        font-size: 22px;
+    }
+
+    h5 {
+        font-size: 30px;
+
+    }
+
+    .header-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .img-frame {
+  border: 2px solid #ccc;                  /* กรอบสีเทาบางๆ */
+  box-shadow: 2px 2px 5px rgba(16, 16, 16, 0.3); /* เงาบางๆ ให้ดูมีมิติ */
+}
+   
 
 
 
@@ -22,27 +50,116 @@ body {
 
     #para2 {
     font-size: 16px;
-    text-indent: -100px;
+    text-indent: 50px;
     }
 
     #para3 {
-
-
+        font-size: 16px;
+        text-align: justify;   
+        margin-bottom: 15px;  
+        line-height: 1.6;    
     }
 
     #para4 {
         font-size: 16px;
-        text-indent: 50px;
+        text-align: justify;   
+        margin-bottom: 15px;  
+        line-height: 1.6;  
     }
 
 
 
     #para5 {
         font-size: 16px;
-        text-indent: 50px;
     }
 
     #para6 {
         font-size: 16px;
-        text-indent: 50px;
+        
     }
+
+    #para7 {
+        font-size: 22px;
+        
+    }
+    #para8 {
+        font-size: 16px;
+    }
+    #para9 {
+        font-size: 16px;
+        
+    }
+    #para10 {
+        font-size: 16px;
+        
+    }
+    #para11 {
+        font-size: 16px;
+        
+    }
+    #para12 {
+        font-size: 16px;
+        
+    }
+    #para13 {
+        font-size: 16px;
+    
+    }
+    #para14 {
+        font-size: 16px;
+       
+    }
+    #para15 {
+        font-size: 16px;
+       
+    }
+    #para16 {
+        font-size: 22px;
+        
+    }
+    #para17 {
+        font-size: 16px;
+        
+        }
+    #para18 {
+        font-size: 16px;
+        
+    }
+    #para19 {
+        font-size: 16px;
+       
+    }
+    #para20 {
+        font-size: 16px;
+       
+    }
+    #para21 {
+        font-size: 16px;
+        
+    }
+    #para22 {
+        font-size: 16px;
+        
+    }
+    #para23 {
+        font-size: 16px;
+        
+    }
+    #para24 {
+        font-size: 16px;
+        
+
+    }
+
+    #para25 {
+        font-size: 16px;
+    
+
+    }
+    #para26 {
+        font-size: 16px;
+        
+
+    }
+
+   
